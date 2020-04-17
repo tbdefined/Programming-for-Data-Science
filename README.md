@@ -1,27 +1,19 @@
-# Version Control with Git
+# Udacity - Programming for Data Science with Python
 
-This is the repo for [Udacity's Version Control with Git course](). In the course, students will learn version control while learning the basics to intermediate knowledge of Git.
+This is a repository for all of the projects related to the nano degree for "Programming for Data Science with Python". It was a very inspiring project!
 
-This repo contains the source code of a blog project that will be used throughout the course.
 
-## Table of Contents
+## Project 1 - DVD Data Base
 
-* [Instructions](#instructions)
-* [Creator](#creators)
+* x
 
-## Instructions
+## Project 2 - US Bike Rental Data
 
-* clone the project
-* open the index file in a browser
+* x
 
-## Creators
+## Project 3 - Uploading everything to GitHub
 
-* Richard Kalehoff
+* As a last step students where asked to upload their work to GitHub. Furthermore, we were asked to fill out a form that includes all necessary git commands to do so.
     - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
-    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
 
-With the help of:
 
-* Colt
-* James
-* Julia
